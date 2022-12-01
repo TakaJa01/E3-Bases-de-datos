@@ -1,0 +1,92 @@
+id_vuelo,aeropuerto salida,hora salida,aeropuerto llegada,hora llegada
+0,Aeropuerto Internacional de Bruselas,9:10,Aeropuerto Internacional de Cologne,12:47
+1,Aeropuerto Internacional de Miami,16:21,Aeropuerto Arturo Merino Benitez,12:16
+2,Aeropuerto Internacional de Ottawa,9:32,Aeropuerto de Sidney,18:12
+3,Aeropuerto Internacional de Auckland,2:32,Aeropuerto Internacional de Frankfurt,7:42
+4,Aeropuerto Internacional de Berlin,19:28,Aeropuerto Internacional de NYC,12:24
+5,Aeropuerto de Cologne,2:19,Aeropuerto Internacional de Frankfurt,19:41
+6,Aeropuerto Internacional de Auckland,5:36,Aeropuerto Internacional de Miami,5:39
+7,Aeropuerto Internacional de Berlin,18:42,Aeropuerto de Philadelphia,1:40
+8,Aeropuerto Internacional de Auckland,0:25,Miami Airport,9:27
+9,Aeropuerto de Sidney,0:19,Aeropuerto Internacional de Toronto,14:51
+10,Aeropuerto Arturo Merino Benitez,0:14,Aeropuerto de Valencia,16:14
+11,Aeropuerto de Hamburg,3:26,Miami Airport,8:10
+12,Aeropuerto Internacional de Auckland,12:54,Aeropuerto Internacional de Boston,16:11
+13,Aeropuerto de Newtown,11:16,Aeropuerto de Ontario,7:30
+14,Aeropuerto Internacional de Sidney,11:45,Aeropuerto Arturo Merino Benitez,1:52
+15,Aeropuerto Arturo Merino Benitez,19:34,Aeropuerto Internacional de Sao Paulo,12:16
+16,Aeropuerto Internacional de Dubái,23:44,Aeropuerto Internacional de Barcelona,15:30
+17,Aeropuerto Arturo Merino Benitez,14:41,Aeropuerto Internacional de Barcelona,8:52
+18,Aeropuerto de Newtown,19:39,Aeropuerto de Ontario,3:39
+19,Aeropuerto de Pekín,14:14,Aeropuerto Internacional de Barcelona,21:11
+20,Aeropuerto Arturo Merino Benitez,13:10,Aeropuerto Internacional de Barcelona,5:35
+21,Aeropuerto Internacional de Miami,20:41,Aeropuerto Internacional de Ottawa,20:27
+22,Aeropuerto Ezeiza,3:34,Aeropuerto de Newtown,9:12
+23,Aeropuerto Arturo Merino Benitez,19:17,Aeropuerto Ezeiza,10:42
+24,Aeropuerto Ezeiza,13:21,Aeropuerto Internacional de Bruselas,11:40
+25,Aeropuerto Internacional de Boston,7:31,Aeropuerto de Bruselas,14:54
+26,Aeropuerto InternacionalHartsfield-Jackson,12:43,Aeropuerto Internacional de Auckland,12:11
+27,Aeropuerto Internacional de Berlin,1:31,Aeropuerto Ezeiza,7:50
+28,Aeropuerto de Bilbao,6:18,Aeropuerto de Bruselas,16:13
+29,Aeropuerto Internacional de Boston,12:11,Aeropuerto de Brasilia,5:40
+30,Aeropuerto de Philadelphia,1:20,Aeropuerto Arturo Merino Benitez,20:38
+31,Aeropuerto de Medellin,7:21,Aeropuerto Arturo Merino Benitez,19:38
+32,Aeropuerto Internacional de Boston,7:45,Aeropuerto Internacional de Sidney,23:35
+33,Aeropuerto de Pekín,15:22,Aeropuerto Internacional de Auckland,7:27
+34,Aeropuerto Internacional de Buenos Aires,17:29,Aeropuerto Internacional de Cologne,20:43
+35,Aeropuerto Internacional de Buenos Aires,23:32,Aeropuerto Internacional de Frankfurt,4:10
+36,Aeropuerto Internacional de Barcelona,13:29,Aeropuerto de Bilbao,4:35
+37,John F. Kennedy Airport,23:42,Aeropuerto Internacional de Sao Paulo,10:42
+38,Aeropuerto de Bruselas,2:36,Aeropuerto de Cologne,23:52
+39,Aeropuerto Internacional de Berlin,12:42,Aeropuerto de Opa-Ioka,12:10
+40,Aeropuerto Internacional de Berlin,6:21,Aeropuerto Internacional de Sidney,6:41
+41,Aeropuerto Internacional de Frankfurt,13:14,Aeropuerto de Medellin,20:47
+42,Aeropuerto Internacional de Auckland,6:16,Aeropuerto Internacional de Barcelona,5:48
+43,Aeropuerto Internacional de Denver,6:40,Aeropuerto Internacional de Barcelona,7:40
+44,Aeropuerto de Bilbao,23:43,Aeropuerto de Sidney,2:23
+45,Aeropuerto Internacional de Auckland,9:53,Aeropuerto Internacional de Buenos Aires,23:35
+46,Aeropuerto Internacional de Tokio-Haneda,20:00,Aeropuerto Internacional de Auckland,16:43
+47,Aeropuerto de Newtown,11:13,Aeropuerto Internacional Rio de Janeiro,8:40
+48,Aeropuerto Internacional de Denver,20:46,Aeropuerto Internacional de Buenos Aires,0:55
+49,Aeropuerto Arturo Merino Benitez,22:43,Aeropuerto de Hamburg,15:19
+50,Aeropuerto Internacional de Auckland,18:23,Aeropuerto Internacional de Berlin,15:40
+51,Aeropuerto Internacional de Auckland,18:20,Aeropuerto Internacional de Barcelona,10:34
+52,John F. Kennedy Airport,1:17,Aeropuerto de Valencia,11:31
+53,Aeropuerto de Brasilia,15:55,Aeropuerto de Cologne,22:32
+54,Aeropuerto de Philadelphia,14:43,Aeropuerto Internacional Rio de Janeiro,20:12
+55,Aeropuerto Internacional de Auckland,1:12,Aeropuerto Internacional de Barcelona,2:29
+56,Aeropuerto Internacional de Berlin,18:45,Aeropuerto Internacional de Boston,4:33
+57,Aeropuerto Internacional de Sao Paulo,6:19,Aeropuerto Internacional de Toronto,16:11
+58,Aeropuerto Internacional de Auckland,5:24,Aeropuerto de Cologne,23:21
+59,Aeropuerto Internacional de Auckland,21:22,John F. Kennedy Airport,19:50
+60,Aeropuerto de Medellin,0:30,Aeropuerto Internacional de Sidney,6:54
+61,John F. Kennedy Airport,4:31,Aeropuerto Arturo Merino Benitez,10:37
+62,Aeropuerto Internacional de Buenos Aires,16:48,Miami Airport,3:34
+63,John F. Kennedy Airport,6:35,Aeropuerto Internacional Washington DC,7:13
+64,Aeropuerto Internacional de Berlin,18:51,Aeropuerto de Brasilia,19:52
+65,Aeropuerto Internacional de Sidney,3:36,Aeropuerto Internacional de Toronto,4:54
+66,Aeropuerto Internacional O'Hare,23:12,Aeropuerto Internacional de Auckland,18:29
+67,Aeropuerto Internacional de NYC,13:29,Aeropuerto Internacional de Sao Paulo,4:31
+68,Aeropuerto Internacional de Berlin,9:24,Aeropuerto Ezeiza,1:54
+69,Aeropuerto de Newtown,20:13,Aeropuerto Arturo Merino Benitez,2:30
+70,Aeropuerto Ezeiza,11:22,Aeropuerto Internacional de Sidney,3:35
+71,Aeropuerto Internacional de Denver,23:28,Aeropuerto Internacional de Miami,17:37
+72,Aeropuerto Internacional de Dubái,17:43,Aeropuerto Internacional de Auckland,12:39
+73,Aeropuerto Internacional de Berlin,12:12,Aeropuerto de Valencia,22:32
+74,Aeropuerto Internacional de Ottawa,16:41,Aeropuerto Arturo Merino Benitez,17:17
+75,Aeropuerto Ezeiza,23:19,Aeropuerto Arturo Merino Benitez,19:31
+76,Aeropuerto Internacional de Denver,23:39,Aeropuerto Internacional de Cologne,20:20
+77,Aeropuerto de Ontario,21:48,Aeropuerto Arturo Merino Benitez,20:33
+78,Aeropuerto de Newtown,14:37,Aeropuerto Arturo Merino Benitez,3:39
+79,Aeropuerto Internacional de Barcelona,3:14,Aeropuerto Internacional de Boston,10:48
+80,Aeropuerto Internacional de Barcelona,0:31,Aeropuerto Ezeiza,22:19
+81,Aeropuerto Internacional de Berlin,3:34,LAX Airport,15:37
+82,Aeropuerto Ezeiza,15:49,John F. Kennedy Airport,9:32
+83,Aeropuerto Internacional de Ottawa,5:52,Aeropuerto Internacional Rio de Janeiro,18:50
+84,Aeropuerto Internacional de Miami,8:30,Aeropuerto Internacional de NYC,10:52
+85,Aeropuerto de Opa-Ioka,20:23,Aeropuerto de Ontario,20:25
+86,Aeropuerto Internacional de Denver,1:55,Aeropuerto Internacional de Boston,11:51
+87,Aeropuerto de Adolfo Suárez Madrid-Barajas,10:16,Aeropuerto Internacional de Auckland,20:26
+88,Aeropuerto Arturo Merino Benitez,21:46,Aeropuerto de Opa-Ioka,4:16
+89,Aeropuerto Arturo Merino Benitez,11:24,Aeropuerto Internacional de Berlin,22:55
+90,Aeropuerto Internacional de NYC,20:51,Aeropuerto Arturo Merino Benitez,10:11
