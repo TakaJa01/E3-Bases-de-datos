@@ -4,6 +4,6 @@
   $databaseNamep = 'grupo84e3';
 
   $userimp = 'grupo91';
-  $passwordimp = 'funktata';
+  $passwordimp = 'funktaka';
   $databaseNameimp = 'grupo91e3';
 ?>
